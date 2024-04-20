@@ -138,3 +138,6 @@ GitHub.sublime-settings
 staticfiles
 static
 postgres
+bin
+include
+lib
