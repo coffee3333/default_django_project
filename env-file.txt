@@ -1,0 +1,13 @@
+DJANGO_SECRET_KEY='your-hash'
+DEBUG=False
+ALLOWED_HOSTS=yourhosts
+CLOUD_NAME=name
+API_KEY=key
+API_SECRET=secret
+TRUST_ORIGIN=origin
+DB_HOST=db
+DB_USER=user
+DB_PASSWORD=pass
+DB_NAME=name
+DB_PORT=port
+POSTGRES_HOST_AUTH_METHOD=trust
